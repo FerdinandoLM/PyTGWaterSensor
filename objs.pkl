@@ -1,0 +1,6 @@
+(lp0
+S'TELEGRAM:SECRET'
+p1
+aS'-100CHANNELID'
+p2
+a.
